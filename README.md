@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" width="800" alt="povargg · Taras Shybaiev. Icons for C++, Lua, Python, GLSL, CSS, HTML, Shell, C and Batchfile.">
+  <img src="./assets/profile-banner.png" alt="povargg · Taras Shybaiev. Icons for C++, Lua, Python, GLSL, CSS, HTML, Shell, C and Batchfile.">
 </p>
 
 <p align="center">Windows desktop effects · Linux and Neovim customization</p>
@@ -7,7 +7,7 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/languages-mobile.png">
-    <img src="./assets/languages.png" width="800" alt="Languages by bytes of code across three public repositories, 14 Nov 2026. C++ 84.11%, Lua 5.07%, Python 4.26%, GLSL 4.11%, CSS 0.90%, HTML 0.62%, Shell 0.45%, C 0.26%, Batchfile 0.23%.">
+    <img src="./assets/languages.png" alt="Languages by bytes of code across three public repositories, 14 Nov 2026. C++ 84.11%, Lua 5.07%, Python 4.26%, GLSL 4.11%, CSS 0.90%, HTML 0.62%, Shell 0.45%, C 0.26%, Batchfile 0.23%.">
   </picture>
 </p>
 
@@ -16,7 +16,7 @@
 ## Featured project
 
 <a href="https://github.com/povargg/UltimateDesktopEffects">
-  <img src="./assets/desktop-effects.png" width="800" alt="Offline simulation previews of four Windows desktop effects: snow, rain, pixel leaves and Halloween.">
+  <img src="./assets/desktop-effects.png" alt="Offline simulation previews of four Windows desktop effects: snow, rain, pixel leaves and Halloween.">
 </a>
 
 ### [UltimateDesktopEffects](https://github.com/povargg/UltimateDesktopEffects)
