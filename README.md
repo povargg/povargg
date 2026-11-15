@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="povargg · Taras Shybaiev. Icons for C++, Lua, Python, GLSL, CSS, HTML, Shell, C and Batchfile.">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/language-icons-mobile.png">
+    <img src="./assets/language-icons.png" alt="Icons for C++, Lua, Python, GLSL, CSS, HTML, Shell, C and Batchfile.">
+  </picture>
 </p>
 
 <p align="center">Windows desktop effects · Linux and Neovim customization</p>
@@ -31,4 +34,4 @@ Snow, rain, pixel leaves and Halloween effects for the Windows desktop.
 - [**Linux dotfiles**](https://github.com/povargg/dotfiles) · POVVIM for Neovim and a custom rmpc setup.
 - [**Portfolio**](https://github.com/povargg/portfolio) · A lightweight HTML and CSS project showcase.
 
-<!-- The banner includes adapted Skill Icons by tandpfun. License in assets/skill-icons-license.txt. -->
+<!-- The language icons include adapted Skill Icons by tandpfun. License in assets/skill-icons-license.txt. -->
