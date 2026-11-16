@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/language-icons-mobile.png">
-    <img src="./assets/language-icons.png" alt="Icons for C++, Lua, Python, GLSL, CSS, HTML, Shell, C and Batchfile.">
+    <img src="./assets/language-icons.png" alt="Icons for C++, JavaScript, CSS, Lua, HTML, Python, GLSL, Shell, C and Batchfile.">
   </picture>
 </p>
 
@@ -10,7 +10,7 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/languages-mobile.png">
-    <img src="./assets/languages.png" alt="Languages by bytes of code across three public repositories, 14 Nov 2026. C++ 84.11%, Lua 5.07%, Python 4.26%, GLSL 4.11%, CSS 0.90%, HTML 0.62%, Shell 0.45%, C 0.26%, Batchfile 0.23%.">
+    <img src="./assets/languages.png" alt="Languages by bytes of code across three public repositories, 16 Nov 2026. C++ 67.40%, JavaScript 11.02%, CSS 6.53%, Lua 4.06%, HTML 3.54%, Python 3.41%, GLSL 3.29%, Shell 0.36%, C 0.21%, Batchfile 0.18%.">
   </picture>
 </p>
 
@@ -32,6 +32,6 @@ Snow, rain, pixel leaves and Halloween effects for the Windows desktop.
 ### More projects
 
 - [**Linux dotfiles**](https://github.com/povargg/dotfiles) · POVVIM for Neovim and a custom rmpc setup.
-- [**Portfolio**](https://github.com/povargg/portfolio) · A lightweight HTML and CSS project showcase.
+- [**Portfolio**](https://github.com/povargg/portfolio) · A project showcase built with HTML, CSS and JavaScript.
 
 <!-- The language icons include adapted Skill Icons by tandpfun. License in assets/skill-icons-license.txt. -->
