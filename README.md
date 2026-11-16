@@ -19,7 +19,7 @@
 ## Featured project
 
 <a href="https://github.com/povargg/UltimateDesktopEffects">
-  <img src="./assets/desktop-effects.png" alt="Offline simulation previews of four Windows desktop effects: snow, rain, pixel leaves and Halloween.">
+  <img src="./assets/desktop-effects.webp" alt="Four UltimateDesktopEffects screenshots showing snow, rain, falling leaves and Halloween.">
 </a>
 
 ### [UltimateDesktopEffects](https://github.com/povargg/UltimateDesktopEffects)
