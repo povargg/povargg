@@ -31,7 +31,7 @@ Snow, rain, pixel leaves and Halloween effects for the Windows desktop.
 
 ### More projects
 
-- [**PovarDock**](https://github.com/povargg/PovarDock) · A customisable dock and keyboard launcher for Windows 11.
+- [**PovarDock**](https://github.com/povargg/PovarDock) · My Windows 11 dock and keyboard launcher with virtual desktop shortcuts, colour palettes, and Liquid Glass.
 - [**Linux dotfiles**](https://github.com/povargg/dotfiles) · POVVIM for Neovim and a custom rmpc setup.
 - [**Portfolio**](https://github.com/povargg/portfolio) · A project showcase built with HTML, CSS and JavaScript.
 
