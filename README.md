@@ -14,23 +14,24 @@
   </picture>
 </p>
 
-<!-- Language shares use GitHub Linguist byte counts from the UltimateDesktopEffects, dotfiles and portfolio repositories. -->
+<!-- Language shares use GitHub Linguist byte counts from the Ultimate Desktop Effects, dotfiles and portfolio repositories. -->
 
 ## Featured project
 
-<a href="https://github.com/povargg/UltimateDesktopEffects">
-  <img src="./assets/desktop-effects.webp" alt="Four UltimateDesktopEffects screenshots showing snow, rain, falling leaves and Halloween.">
+<a href="https://github.com/povargg/Ultimate-Desktop-Effects">
+  <img src="./assets/desktop-effects.webp" alt="Four Ultimate Desktop Effects screenshots showing snow, rain, falling leaves and Halloween.">
 </a>
 
-### [UltimateDesktopEffects](https://github.com/povargg/UltimateDesktopEffects)
+### [Ultimate Desktop Effects](https://github.com/povargg/Ultimate-Desktop-Effects)
 
 Snow, rain, pixel leaves and Halloween effects for the Windows desktop.  
 `C++17` · `Direct2D` · `DirectComposition`
 
-[Latest release](https://github.com/povargg/UltimateDesktopEffects/releases/latest) · Built on [flipkips’ LayerSnow](https://github.com/flipkips/desktop-snow-overlay).
+[Latest release](https://github.com/povargg/Ultimate-Desktop-Effects/releases/latest) · Built on [flipkips’ LayerSnow](https://github.com/flipkips/desktop-snow-overlay).
 
 ### More projects
 
+- [**PovarDock**](https://github.com/povargg/PovarDock) · A customisable dock and keyboard launcher for Windows 11.
 - [**Linux dotfiles**](https://github.com/povargg/dotfiles) · POVVIM for Neovim and a custom rmpc setup.
 - [**Portfolio**](https://github.com/povargg/portfolio) · A project showcase built with HTML, CSS and JavaScript.
 
