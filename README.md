@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/language-icons-mobile.png">
-    <img src="./assets/language-icons.png" alt="Icons for C++, JavaScript, CSS, Lua, HTML, Python, GLSL, Shell, C and Batchfile.">
+    <img src="./assets/language-icons.png" alt="Icons for Rust, C++, JavaScript, CSS, HTML, Lua, Python, GLSL, PowerShell, C#, Shell, HLSL, C and Batchfile.">
   </picture>
 </p>
 
@@ -10,11 +10,11 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/languages-mobile.png">
-    <img src="./assets/languages.png" alt="Languages by bytes of code across three public repositories, 16 Nov 2026. C++ 67.40%, JavaScript 11.02%, CSS 6.53%, Lua 4.06%, HTML 3.54%, Python 3.41%, GLSL 3.29%, Shell 0.36%, C 0.21%, Batchfile 0.18%.">
+    <img src="./assets/languages.png" alt="Languages by bytes of code across four public repositories, 22 Nov 2026. Rust 56.53%, C++ 28.06%, JavaScript 5.06%, CSS 2.67%, HTML 1.62%, Lua 1.62%, Python 1.35%, GLSL 1.31%, PowerShell 1.09%, C# 0.26%, Shell 0.15%, HLSL 0.12%, C 0.09%, Batchfile 0.08%.">
   </picture>
 </p>
 
-<!-- Language shares use GitHub Linguist byte counts from the Ultimate Desktop Effects, dotfiles and portfolio repositories. -->
+<!-- Language shares use GitHub Linguist byte counts from the PovarDock, Ultimate-Desktop-Effects, dotfiles and portfolio default branches. -->
 
 ## Featured project
 
