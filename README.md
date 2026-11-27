@@ -9,10 +9,12 @@
 
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="./assets/languages-mobile.png">
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/languages.png">
-    <source media="(max-width: 600px)" srcset="./assets/languages-mobile.gif">
-    <img src="./assets/languages.gif" alt="Languages by bytes of code across four public repositories, 22 Nov 2026. Rust 56.53%, C++ 28.06%, JavaScript 5.06%, CSS 2.67%, HTML 1.62%, Lua 1.62%, Python 1.35%, GLSL 1.31%, PowerShell 1.09%, C# 0.26%, Shell 0.15%, HLSL 0.12%, C 0.09%, Batchfile 0.08%.">
+    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="./assets/language-stats-mobile.png">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/language-stats.png">
+    <source media="(max-width: 600px)" type="image/webp" srcset="./assets/language-stats-mobile.webp">
+    <source type="image/webp" srcset="./assets/language-stats.webp">
+    <source media="(max-width: 600px)" srcset="./assets/language-stats-mobile.gif">
+    <img src="./assets/language-stats.gif" alt="Languages by bytes of code across four public repositories, 22 Nov 2026. Rust 56.53%, C++ 28.06%, JavaScript 5.06%, CSS 2.67%, HTML 1.62%, Lua 1.62%, Python 1.35%, GLSL 1.31%, PowerShell 1.09%, C# 0.26%, Shell 0.15%, HLSL 0.12%, C 0.09%, Batchfile 0.08%.">
   </picture>
 </p>
 
